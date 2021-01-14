@@ -1,0 +1,9 @@
+Sprite: 5/5
+Sprite Control: 
+BG: 
+BG Music: 
+Sound FX: 
+Stage: 1/1
+Ranking: 
+Quit Button: 
+Intro Scene: 
